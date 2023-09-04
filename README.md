@@ -7,7 +7,7 @@ SpringBoot, React, PostgreSQL, Docker, Flyway, AntDesign, AWS Elastic Beanstalk.
 
 
 ## Project Description
-The project is a student management system using SpringBoot 2 and PostgreSQL for the backend and React.js for the front end. In addition, I also deploy the application to AWS, making it available to real users to use. 
+The project is a student management system using SpringBoot 2 and PostgreSQL for the backend and React.js for the front end. In addition, I also deploy the application to AWS, making it available to real users to use. 
 
 ## RoadMap
 1. Getting started and bootstrap project using Spring Initializr.
@@ -16,6 +16,6 @@ The project is a student management system using SpringBoot 2 and PostgreSQL fo
 4. Write SQL queries using JDBC Template provided by Spring.
 5. Submit form requests from frontend and implement backend logic to process form submissions.
 6. Error handling on both frontend and backend.
-7. Database migrations with Flyway
-8. Building automation with Maven
-9. Deployment process to Amazon Web Services (AWS)
+7. Database migrations with Flyway.
+8. Building automation with Maven.
+9. Deployment process to Amazon Web Services (AWS).
