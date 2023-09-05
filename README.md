@@ -2,7 +2,7 @@
 
 <img width="800" alt="image" src="https://github.com/Tyler03118/FullStackProject/assets/113784268/3ce861f9-b8c7-4ab3-9482-97a50c0cf3ce">
 
-##🦫 Skills
+## 🦫 Skills
 SpringBoot, React, PostgreSQL, Docker, Flyway, AntDesign, AWS Elastic Beanstalk...
 
 
